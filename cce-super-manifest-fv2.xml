@@ -1,7 +1,7 @@
 <super-manifest version="2.0">
   <app-manifest-list>
     <app-manifest>
-      <uri>https://git-ore.aus.cypress.com/community_examples/cces/cce-app-manifest/-/raw/topic/cce-mtb-psoc4-flash-and-chip-protection-v1.0.0/cce-app-manifest-fv2.xml</uri>
+      <uri>https://git-ore.aus.cypress.com/community_examples/cces/cce-app-manifest/-/raw/topic/cce-mtb-psoc4-msc-capsense-guard-v1.0.0/cce-app-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
 </super-manifest>
